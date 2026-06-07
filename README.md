@@ -12,6 +12,9 @@ The objective was to compare training from scratch with transfer learning and ev
 
 **Dataset:** Chest X-Ray Images (Pneumonia)
 
+**Dataset Source:** https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+
 Classes:
 
 * NORMAL
